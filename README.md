@@ -1,6 +1,7 @@
 # Galaxy
 big one 
-Space game galaxy build with python/kivy.
+
+Space game galaxy build with python/kivy!
 
 ## Description
 
